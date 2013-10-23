@@ -3224,3 +3224,1497 @@ Stack trace:
 REQUEST_URI=/gis-kampung-adat/img/loading.gif
 HTTP_REFERER=http://localhost/gis-kampung-adat/
 ---
+2013/10/23 11:06:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-notify.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-notify.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:06:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:06:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-popover.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-popover.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:06:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-alert.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-alert.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:06:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-button.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-button.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:06:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-scrollspy.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-scrollspy.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:06:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-tooltip.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-tooltip.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:06:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-modal.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-modal.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:06:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-typeahead.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-typeahead.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:06:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/loading.gif".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('img/loading.gif')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/img/loading.gif
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:06:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/close.png".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('img/close.png')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/img/close.png
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:09:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-notify.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-notify.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:09:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:09:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-alert.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-alert.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:09:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-scrollspy.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-scrollspy.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:09:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-modal.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-modal.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:09:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-tooltip.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-tooltip.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:09:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-button.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-button.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:09:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-popover.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-popover.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:09:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-typeahead.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-typeahead.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:09:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/loading.gif".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('img/loading.gif')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/img/loading.gif
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:09:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/close.png".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('img/close.png')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/img/close.png
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:09:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-notify.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-notify.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:09:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:10:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-modal.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-modal.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:10:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-button.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-button.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:10:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-tooltip.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-tooltip.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:10:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-popover.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-popover.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:10:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-alert.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-alert.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:10:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-scrollspy.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-scrollspy.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:10:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-typeahead.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-typeahead.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:10:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/close.png".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('img/close.png')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/img/close.png
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:10:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/loading.gif".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('img/loading.gif')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/img/loading.gif
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:11:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-notify.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-notify.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:11:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:11:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-modal.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-modal.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:11:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-scrollspy.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-scrollspy.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:11:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-tooltip.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-tooltip.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:11:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-alert.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-alert.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:11:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-button.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-button.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:11:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-popover.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-popover.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:11:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-typeahead.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-typeahead.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:11:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/loading.gif".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('img/loading.gif')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/img/loading.gif
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:11:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/close.png".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('img/close.png')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/img/close.png
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:11:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:11:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-notify.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-notify.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:11:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-tooltip.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-tooltip.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:11:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-alert.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-alert.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:11:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-popover.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-popover.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:11:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-scrollspy.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-scrollspy.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:11:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-modal.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-modal.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:11:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-button.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-button.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:11:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-typeahead.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-typeahead.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:11:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/close.png".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('img/close.png')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/img/close.png
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:11:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/loading.gif".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('img/loading.gif')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/img/loading.gif
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:12:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-notify.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-notify.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:12:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:12:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-scrollspy.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-scrollspy.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:12:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-tooltip.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-tooltip.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:12:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-popover.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-popover.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:12:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-alert.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-alert.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:12:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-modal.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-modal.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:12:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-button.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-button.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:12:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-typeahead.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-typeahead.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:12:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/loading.gif".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('img/loading.gif')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/img/loading.gif
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:12:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/close.png".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('img/close.png')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/img/close.png
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:21:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/gii/default/login
+---
+2013/10/23 11:21:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-notify.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-notify.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/gii/default/login
+---
+2013/10/23 11:21:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-notify.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-notify.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/gii/default/login
+---
+2013/10/23 11:21:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/gii/default/login
+---
+2013/10/23 11:21:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-notify.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-notify.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/gii/default/index
+---
+2013/10/23 11:21:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/gii/default/index
+---
+2013/10/23 11:21:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-notify.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-notify.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/gii/model
+---
+2013/10/23 11:21:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/gii/model
+---
+2013/10/23 11:21:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-notify.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-notify.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/gii/model
+---
+2013/10/23 11:21:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/gii/model
+---
+2013/10/23 11:21:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-notify.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-notify.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/gii/model
+---
+2013/10/23 11:21:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/gii/model
+---
+2013/10/23 11:21:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-notify.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-notify.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:21:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:21:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-scrollspy.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-scrollspy.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:21:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-popover.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-popover.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:21:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-modal.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-modal.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:21:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-alert.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-alert.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:21:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-button.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-button.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:21:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-tooltip.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-tooltip.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:21:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-typeahead.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-typeahead.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:21:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/loading.gif".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('img/loading.gif')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/img/loading.gif
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:21:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/close.png".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('img/close.png')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/img/close.png
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:21:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:21:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-notify.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-notify.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:21:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-modal.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-modal.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:21:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-scrollspy.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-scrollspy.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:21:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-alert.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-alert.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:21:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-typeahead.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-typeahead.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:21:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-tooltip.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-tooltip.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:21:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-button.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-button.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:21:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-popover.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-popover.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:21:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/close.png".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('img/close.png')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/img/close.png
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:21:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/loading.gif".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('img/loading.gif')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/img/loading.gif
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:24:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-notify.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-notify.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:24:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:24:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-popover.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-popover.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:24:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-modal.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-modal.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:24:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-alert.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-alert.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:24:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-tooltip.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-tooltip.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:24:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-scrollspy.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-scrollspy.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:24:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-button.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-button.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:24:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-typeahead.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-typeahead.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:24:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/loading.gif".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('img/loading.gif')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/img/loading.gif
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:24:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/close.png".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('img/close.png')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/img/close.png
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:25:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-notify.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-notify.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:25:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:25:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-tooltip.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-tooltip.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:25:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-scrollspy.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-scrollspy.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:25:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-alert.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-alert.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:25:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-modal.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-modal.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:25:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-button.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-button.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:25:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-popover.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-popover.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:25:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-typeahead.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-typeahead.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:25:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/loading.gif".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('img/loading.gif')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/img/loading.gif
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:25:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/close.png".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('img/close.png')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/img/close.png
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:26:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:26:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-notify.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-notify.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:26:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-scrollspy.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-scrollspy.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:26:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-alert.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-alert.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:26:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-modal.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-modal.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:26:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-popover.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-popover.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:26:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-button.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-button.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:26:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-tooltip.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-tooltip.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:26:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-typeahead.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-typeahead.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:26:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/loading.gif".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('img/loading.gif')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/img/loading.gif
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:26:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/close.png".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('img/close.png')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/img/close.png
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:29:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-notify.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-notify.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:29:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:29:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-scrollspy.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-scrollspy.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:29:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-alert.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-alert.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:29:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-modal.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-modal.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:29:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-tooltip.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-tooltip.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:29:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-typeahead.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-typeahead.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:29:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-button.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-button.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:29:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-popover.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-popover.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:29:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/loading.gif".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('img/loading.gif')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/img/loading.gif
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:29:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/close.png".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('img/close.png')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/img/close.png
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:30:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-notify.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-notify.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:30:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:30:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-scrollspy.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-scrollspy.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:30:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-alert.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-alert.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:30:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-popover.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-popover.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:30:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-button.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-button.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:30:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-modal.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-modal.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:30:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-typeahead.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-typeahead.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:30:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-tooltip.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-tooltip.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:30:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/loading.gif".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('img/loading.gif')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/img/loading.gif
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:30:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/close.png".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('img/close.png')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/img/close.png
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:31:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-notify.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-notify.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:31:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/6ed2f066/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/6ed2f066...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/assets/6ed2f066/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:31:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-alert.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-alert.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:31:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-scrollspy.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-scrollspy.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:31:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-modal.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-modal.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:31:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-tooltip.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-tooltip.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:31:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-typeahead.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-typeahead.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:31:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-popover.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-popover.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:31:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/hebo/js/bootstrap-button.js".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/hebo/js/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/themes/hebo/js/bootstrap-button.js
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:31:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/close.png".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('img/close.png')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/img/close.png
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---
+2013/10/23 11:31:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/loading.gif".' in /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('img/loading.gif')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/gis-kampung-adat/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/gis-kampung-adat/img/loading.gif
+HTTP_REFERER=http://localhost/gis-kampung-adat/
+---

@@ -84,14 +84,22 @@
                 <li>
                   <a><h4>STATISTIK KUNJUNGAN</h4></a>
                 </li>
-                
-                  <?php Yii::app()->counter->refresh(); ?>
-                  <li><a>online: <?php echo Yii::app()->counter->getOnline(); ?></a></li>
-                  <li><a>today: <?php echo Yii::app()->counter->getToday(); ?></a></li>
-                  <li><a>yesterday: <?php echo Yii::app()->counter->getYesterday(); ?></a></li>
-                  <li><a>total: <?php echo Yii::app()->counter->getTotal(); ?></a></li>
-                  <li><a>maximum: <?php echo Yii::app()->counter->getMaximal(); ?></a></li>
-                  <li><a>date for maximum: <?php echo date('d.m.Y', Yii::app()->counter->getMaximalTime()); ?></a></li>
+                <?php
+                    setcookie("pengunjung", "sudah berkunjung", time() + 900 * 24);
+                    if (!isset($_COOKIE["pengunjung"])) {
+                      $model=new CounterPengunjung;
+
+                      $model->user_time=strtotime("now");
+                      $model->user_ip=$_SERVER['REMOTE_ADDR'];
+                      $model->save();
+                    }
+
+                      $criteria = new CDbCriteria;
+                      $count = CounterPengunjung::model()->count($criteria);
+                ?>
+                    <li class="konten-kiri-li"><a>Dikunjungi oleh : <b><?php echo $count; ?> user</a></b></li>
+                    <li class="konten-kiri-li"><a>OS & Browser : <b><?php echo $_SERVER['HTTP_USER_AGENT'];; ?></a></b></li>
+                    <li class="konten-kiri-li"><a>IP address : <b><?php echo $_SERVER['REMOTE_ADDR']; ?></a></b></li>
             </ul>
           </div>
         </div>
